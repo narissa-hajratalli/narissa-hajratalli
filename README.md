@@ -16,7 +16,7 @@ In my free time, I create watercolor paintings, ceramic pieces, and interior des
 • **Languages**:
 JavaScript, HTML5, CSS3, Ruby, and Python
 
-• **Development tools**:
+• **Tools**:
 Version Control (Git and Github), Heroku, Netlify, Object-oriented Programming (OOP), Algorithms, Data Structures
 
 • **Frameworks**:

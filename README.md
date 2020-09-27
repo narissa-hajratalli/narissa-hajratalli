@@ -15,4 +15,16 @@ As a pre-medical student turned Software Engineer, I strive to code with the pur
 In my free time, I create watercolor paintings, ceramic pieces, and interior design mood boards on Pinterest.
 
 
+### Skills ###
+• **Languages**:
+JavaScript, HTML5, CSS3, Ruby, and Python
+
+• **Development tools**:
+Version Control (Git and Github), Heroku, Netlify, Object-oriented Programming (OOP), Algorithms, Data Structures
+
+• **Frameworks**:
+Node.js, Express.js, Vue.js, jQuery, Bootstrap4, Ruby on Rails, Django
+
+• **Databases**:
+MongoDB, Mongoose, Mongo Atlas, PostgreSQL
 

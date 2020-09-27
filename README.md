@@ -1,10 +1,7 @@
 # <div align="center">Narissa Hajratalli <br/> 👩🏾‍💻 🇬🇾 🧠 🎨 </div> #
 
-##
-📧 nkh239@nyu.edu <br/>
-🔗 [LinkedIn](https://www.linkedin.com/in/narissa-hajratalli/) <br/>
-💁🏾‍♀️ [Portfolio](https://narissa-hajratalli.netlify.app/) <br/>
-##
+### 📧 nkh239@nyu.edu <br/> 🔗 [LinkedIn](https://www.linkedin.com/in/narissa-hajratalli/) <br/> 💁🏾‍♀️ [Portfolio](https://narissa-hajratalli.netlify.app/) <br/>
+###
 
 
 ### About Me ###

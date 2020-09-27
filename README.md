@@ -1,3 +1,4 @@
+![bg](red)
 # <div align="center">Narissa Hajratalli <br/> 👩🏾‍💻 🇬🇾 🧠 🎨 </div> #
 
 ### <div align="center"> 📧 nkh239@nyu.edu <br/> 🔗 [LinkedIn](https://www.linkedin.com/in/narissa-hajratalli/) <br/> 💼 [Portfolio](https://narissa-hajratalli.netlify.app/) <br/> </div>

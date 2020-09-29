@@ -1,6 +1,6 @@
 # <div align="center">Narissa Hajratalli <br/> 👩🏾‍💻 🇬🇾 🧠 🎨 </div> #
 
-### <div align="center"> 📧 nkh239@nyu.edu <br/> 🔗 [LinkedIn](https://www.linkedin.com/in/narissa-hajratalli/) <br/> 💼 [Portfolio](https://narissa-hajratalli.netlify.app/) <br/> 💻[Medium](https://medium.com/@narissa_hajratalli) </div>
+### <div align="center"> 📧  nkh239@nyu.edu <br/> 🔗  [LinkedIn](https://www.linkedin.com/in/narissa-hajratalli/) <br/> 💼  [Portfolio](https://narissa-hajratalli.netlify.app/) <br/> 💻  [Medium](https://medium.com/@narissa_hajratalli) </div>
 ###
 
 
@@ -14,7 +14,7 @@ In my free time, I create watercolor paintings, ceramic pieces, and interior des
 
 ### Skills ###
 • **Languages**:
-JavaScript, HTML5, CSS3, Ruby, and Python
+HTML5, CSS3, JavaScript, Ruby, Python
 
 • **Tools**:
 Version Control (Git and Github), Heroku, Netlify, Object-oriented Programming (OOP), Algorithms, Data Structures

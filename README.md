@@ -1,6 +1,6 @@
 # <div align="center">Narissa Hajratalli <br/> 👩🏾‍💻 🇬🇾 🧠 🎨 </div> #
 
-### <div align="center"> 📧  nkh239@nyu.edu <br/> 🔗  [LinkedIn](https://www.linkedin.com/in/narissa-hajratalli/) <br/> 💼  [Portfolio](narissa-hajratalli.com/) <br/> 💻  [Medium](https://medium.com/@narissa_hajratalli) </div>
+### <div align="center"> 📧  nkh239@nyu.edu <br/> 🔗  [LinkedIn](https://www.linkedin.com/in/narissa-hajratalli/) <br/> 💼  [Portfolio](narissa-hajratalli.com) <br/> 💻  [Medium](https://medium.com/@narissa_hajratalli) </div>
 ###
 
 

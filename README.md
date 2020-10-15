@@ -20,7 +20,7 @@ HTML5, CSS3, JavaScript, Ruby, Python
 Version Control (Git and Github), Heroku, Netlify, Object-oriented Programming (OOP), Algorithms, Data Structures
 
 • **Frameworks**:
-Node.js, Express.js, Vue.js, jQuery, Bootstrap4, Ruby on Rails, Django
+Node.js, Express.js, Vue.js, React, jQuery, Bootstrap4, Ruby on Rails, Django
 
 • **Databases**:
 MongoDB, Mongoose, Mongo Atlas, PostgreSQL

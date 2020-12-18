@@ -9,18 +9,20 @@ After initially realizing Chemical Engineering wasn't the profession for me, I c
 
 As a pre-medical student turned Software Engineer, I strive to code with the purpose to make other’s lives better. My “patient-first” perspective has seamlessly translated into a “user-first” approach when creating products that are geared towards societal impact. An ambitious problem-solver by nature, I always aim high to find solutions to systemic problems with detail-oriented, thoughtful code. At my core, I am a leader that diagnoses problems efficiently and tackles them with a growth mindset.
 
+I'm currently applying the skills I gained from General Assembly's Software Engineering Immersive bootcamp and learning new skills at my internship with Medial Health, where I am helping create the provider facing platform for our healthcare technology web application.
+
 In my free time, I create watercolor paintings, ceramic pieces, and interior design mood boards on Pinterest.
 
 
 ### Skills ###
 • **Languages**:
-HTML5, CSS3, JavaScript, Ruby, Python
+HTML5, CSS3, JavaScript, Ruby, Python, TypeScript
 
 • **Tools**:
-Version Control (Git and Github), Heroku, Netlify, Object-oriented Programming (OOP), Algorithms, Data Structures
+Git, Github, Heroku, Netlify, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API, responsive design, Webpack, GraphQL
 
-• **Frameworks**:
-Node.js, Express.js, Vue.js, React, jQuery, Bootstrap4, Ruby on Rails, Django
+• **Frameworks & Libraries**:
+Node.js, Express.js, Vue.js, React, Material UI, Jest, jQuery, Bootstrap4, Ruby on Rails, Django
 
 • **Databases**:
 MongoDB, Mongoose, Mongo Atlas, PostgreSQL
